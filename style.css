@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif
+}
+
+h1{
+    text-align: center;
+    font-size: 34px;
+}
+
+hr{
+    width: 30em;
+}
+
+table{
+    margin: auto;
+
+}
+
+.me{
+    text-align: left;
+}
+
+.je{
+    text-align: center;
+}
+
+.ku{
+    text-align: right;
+}
